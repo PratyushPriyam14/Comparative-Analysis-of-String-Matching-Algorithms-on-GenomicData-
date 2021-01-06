@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-String-Matching-Algorithms-on-GenomicData-
+Utilizing genomic information, to contemplate the DNA succession of a people's predecessors can assist us with recognizing which maladies or other ailments an individual is probably going to create. Additionally these assistance in understanding the things which somebody may be adversely affected by.  All of genomic data is a sequence of AGCT, these sequences make up the entire information stored in our DNA. 
